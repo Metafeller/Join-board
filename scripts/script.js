@@ -1,6 +1,6 @@
 window.onload = init;
 
-const register_API = "https://joinapi-ad635-default-rtdb.europe-west1.firebasedatabase.app/";
+const register_API = "https://da-join-ca344-default-rtdb.europe-west1.firebasedatabase.app/";
 
 /**
  * Initializes the registration page by setting up the form listeners, displaying the login window and footer, 

@@ -1,6 +1,6 @@
-const taskAPI = "https://joinapi-ad635-default-rtdb.europe-west1.firebasedatabase.app/demoUser/users/user1ID/notes";
-const NameOfAdmin = "https://joinapi-ad635-default-rtdb.europe-west1.firebasedatabase.app/demoUser/users/user1ID/profile";
-const user_API = "https://joinapi-ad635-default-rtdb.europe-west1.firebasedatabase.app/users";
+const taskAPI = "https://da-join-ca344-default-rtdb.europe-west1.firebasedatabase.app/demoUser/users/user1ID/notes";
+const NameOfAdmin = "https://da-join-ca344-default-rtdb.europe-west1.firebasedatabase.app/demoUser/users/user1ID/profile";
+const user_API = "https://da-join-ca344-default-rtdb.europe-west1.firebasedatabase.app/users";
 
 /**
  * Initializes the summary page by rendering task data, displaying the greeting, loading the admin name,
